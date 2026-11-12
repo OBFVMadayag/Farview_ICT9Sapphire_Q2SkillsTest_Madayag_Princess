@@ -1,3 +1,8 @@
 body{background-image: url('https://images.squarespace-cdn.com/content/v1/664c7ae50eea9c731b37e817/0bd933b3-baff-49ad-a136-becbc219422a/JAR_3796a.jpg');
 background-repeat: no-repeat;
 background-size: cover;}
+
+h2{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 40px;
+font-weight: bolder;
+text-align: center;}
